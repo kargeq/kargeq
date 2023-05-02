@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kareem Ateeqi
-- 👀 I’m interested in Software Development project
+- 👀 I’m interested in Software Development projects.
 - 💞️ I’m looking to collaborate on any full stack app development
 - 📫  You can reach out to me by emailing @ateeqi.kareem@gmail.com
 
